@@ -1,3 +1,17 @@
 _release/
 sion.sublime-project
 sion.sublime-workspace
+
+# Directories
+.vs/
+bin/
+bin-int/
+
+# Visual Studio Project Files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# OS Generated files
+.DS_Store
